@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+I have been teaching various subjects in vocational IT programs for around 15 years.
+
+- 🌱 Nowdays my main interests are web development and sysadmin
+
 <!--
+
 **ermengolbota/ermengolbota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
